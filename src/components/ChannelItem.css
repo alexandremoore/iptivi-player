@@ -1,0 +1,14 @@
+.channelItem {
+
+&:hover {
+cursor: pointer;
+}
+
+&.selected {
+    background-color: #36565c;
+    border-radius: 8px;
+    
+}
+}
+
+
